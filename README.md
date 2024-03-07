@@ -22,4 +22,4 @@ The Password Tool requires Python 3.x to run. Clone the repository and run the s
 ```bash
 git clone https://github.com/danielolasoko/password-tool.git
 cd password-tool
-python password_tool.py
+python pass_tool.py
