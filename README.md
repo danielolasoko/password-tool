@@ -23,3 +23,31 @@ The Password Tool requires Python 3.x to run. Clone the repository and run the s
 git clone https://github.com/danielolasoko/password-tool.git
 cd password-tool
 python pass_tool.py
+```
+
+Usage
+-----
+
+1. **Generate Strong Passwords**:
+   
+   - Run the tool and select the option to generate passwords.
+   - Specify the desired length and complexity of the password.
+   - Copy the generated password for use in your applications.
+
+2. **Create Salt and Hash for Passwords**:
+   
+   - Run the tool and choose the option to create salt and hash for passwords.
+   - Enter the password you want to hash and salt.
+   - Copy the generated salt and hash for securely storing passwords.
+
+Requirements
+------------
+
+- Python 3.x
+
+License
+-------
+
+The Password Tool is open-source software released under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+
