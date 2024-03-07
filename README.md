@@ -20,6 +20,6 @@ This tool is lightweight, easy to use, and suitable for both technical and non-t
 The Password Tool requires Python 3.x to run. Clone the repository and run the script to start using the tool.
 
 ```bash
-git clone https://github.com/your-username/password-tool.git
+git clone https://github.com/danielolasoko/password-tool.git
 cd password-tool
 python password_tool.py
